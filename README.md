@@ -1,4 +1,4 @@
-# province_issue_tracker
+# Sample app in Flutter
 
 A new Flutter project.
 
